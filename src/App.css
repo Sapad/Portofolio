@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+:root{
+  --primary-white: #fff;
+  --primary-gray: gray;
+  --primary-green: #198754;
+  --primary-sucess: green;
+  --primary-dark: black;
+}
+
+body{
+  font-family: "Roboto Condesed", sans-serif;
+  background-color: #028a0f;
+}
+.header-wraper {
+
+  background: url(./assets/image/arnold-francisca-f77Bh3inUpE-unsplash.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
