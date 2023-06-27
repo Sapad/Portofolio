@@ -27,6 +27,10 @@ function About() {
                             <FaCertificate className='about__icon'/>
                             <h5>Certificate</h5>
                             <small>by Dicoding, camp404, Edspert</small>
+                            <br></br>
+                            <a href="https://drive.google.com/drive/folders/1JgLI7OQCKtfxLdRAsvgLKy71rTFlBhE9?usp=sharing" target='_blank' rel="noreferrer">Certifikat</a>
+
+                            
                         </article>
                         <article className='about__card'>
                             <FaBriefcase className='about__icon'/>
